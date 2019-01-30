@@ -3,16 +3,20 @@ Team: Florent Osmani, Shenojan Sathiyamohan, Riccardo Raschetti, Luca Blatter
 
 
 **Einleitung**
+
 Wir möchten mehrere Sensoren und einen Akteur einbauen, da wir finden die vielfalt macht denn Spass und so wird es uns nicht langweilig beim Programmieren. 
 
 **Testfälle, Problemreports**
+
 ![alt text](https://github.com/florenttbz/Modul_242/blob/master/Capture.PNG "Testfälle")
 
 **Hardware**
+
 Model: FRDM-K64F
 ![alt text](https://github.com/florenttbz/Modul_242/blob/master/ndxmfotro.jpeg "FRDM-K64F")
 
 **Schlusswort**
+
 Das Modul 242 Mikroprozessoranwendung realisieren hat uns sehr viel Freude bereitet.
 Das Erarbeiten der einzelnen Aufgabenstellungen und der Leistungsbeurteilung 1 war sehr interessant und herausfordernd.
 Die Theorie des Moduls ist nach unserer Meinung eher auf der schwierigeren Seite und weniger interessant. Da dies aber auch dazu gehört haben wir versucht, diese so gut wie möglich zu verstehen, lernen und verwenden.
@@ -20,6 +24,7 @@ Als Team sind wir zufrieden mit unserer Leistung.
 
 
 **Code**
+
     #include "mbed.h"
 
     #include "MFRC522.h"
