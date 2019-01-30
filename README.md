@@ -2,10 +2,10 @@
 Team: Florent Osmani, Shenojan Sathiyamohan, Riccardo Raschetti, Luca Blatter
 
 
-<h6>Einleitung</h6>
+**Einleitung**
 Wir möchten mehrere Sensoren und einen Akteur einbauen, da wir finden die vielfalt macht denn Spass und so wird es uns nicht langweilig beim Programmieren. 
 
-<h6>Testfälle, Problemreports</h6>
+**Testfälle, Problemreports**
 ![alt text](https://github.com/florenttbz/Modul_242/blob/master/Capture.PNG "Testfälle")
 
 **Hardware**
