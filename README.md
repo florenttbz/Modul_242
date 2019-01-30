@@ -1,4 +1,3 @@
-# Modul_242
 <h1>Modul 242 im BIST Kurs</h1>
 Team: Florent Osmani, Shenojan Sathiyamohan, Riccardo Raschetti, Luca Blatter
 
