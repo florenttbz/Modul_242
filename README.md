@@ -1,6 +1,8 @@
 <h1>Modul 242 im BIST Kurs</h1>
 Team: Florent Osmani, Shenojan Sathiyamohan, Riccardo Raschetti, Luca Blatter
 
+
+
 **Einleitung**
 
 Wir möchten mehrere Sensoren und einen Akteur einbauen, da wir finden die vielfalt macht denn Spass und so wird es uns nicht langweilig beim Programmieren. 
@@ -9,6 +11,7 @@ Wir möchten mehrere Sensoren und einen Akteur einbauen, da wir finden die vielf
 ![alt text](https://github.com/florenttbz/Modul_242/blob/master/Capture.PNG "Testfälle")
 
 **Hardware**
+
 Model: FRDM-K64F
 ![alt text](https://github.com/florenttbz/Modul_242/blob/master/ndxmfotro.jpeg "FRDM-K64F")
 
